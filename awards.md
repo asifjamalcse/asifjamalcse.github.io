@@ -8,7 +8,7 @@ permalink: /awards/
 
 ### ROOKIE Research Support Grant
 
-**Chosun University | 2026 | KRW KRW 6 million**
+**Chosun University | 2026 | KRW 6 million**
 
 Awarded through the 2026 ROOKIE Research Support Program to support my doctoral research and international journal publication expenses.
 
