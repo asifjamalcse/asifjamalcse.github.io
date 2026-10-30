@@ -10,9 +10,9 @@ I developed **DentSeg-EDA**, published in *Neurocomputing*, and am developing **
 Previously, I served as a Lecturer at **Air University, Islamabad**, teaching undergraduate and graduate courses and supervising student research.
 **I am seeking postdoctoral opportunities in medical image analysis, computer vision, and deep learning, following my expected graduation in February 2027.**
 ## Selected Highlights
-* **2026:** Awarded a **KRW 6,000,000 ROOKIE Research Support Grant** by Chosun University.
+* **2026:** Awarded a **KRW 6 million ROOKIE Research Support Grant** by Chosun University.
 * **2025:** Published **DentSeg-EDA** in *Neurocomputing*.
-* **2024:** Led the winning team in the **K-Health Medical AI Hackathon**, receiving **KRW 3,000,000** for breast cancer segmentation.
+* **2024:** Led the winning team in the **K-Health Medical AI Hackathon**, receiving **KRW 3 million** for breast cancer segmentation.
 * **2022:** Received the **Best Teacher Award** at Air University.
 ## Research Interests
 * Medical image segmentation and anatomical representation learning
