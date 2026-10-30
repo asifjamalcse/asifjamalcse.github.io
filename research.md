@@ -37,7 +37,7 @@ Published in *Neurocomputing* in 2025, DentSeg-EDA uses enhanced dual attention 
 
 ### Breast Cancer Segmentation
 
-I led Team SegMed in the 2024 K-Health Medical AI Hackathon. Our team developed a breast cancer segmentation approach and won the competition, receiving a KRW 3,000,000 prize.
+I led Team SegMed in the 2024 K-Health Medical AI Hackathon. Our team developed a breast cancer segmentation approach and won the competition, receiving a KRW 3 million prize.
 
 ## Research Environment
 
