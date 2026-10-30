@@ -28,8 +28,8 @@ Previously, I served as a Lecturer at **Air University, Islamabad**, teaching un
 
 ### 2022
 - Received the **Best Teacher Award** from Air University’s Department of Computer Science.
-## Research Interests
 
+## Research Interests
 Medical Artificial Intelligence, Machine Learning, and Deep Learning.
 
 **Sub-areas and applications:** Healthcare AI, medical image segmentation, medical image synthesis, and 3D reconstruction.
