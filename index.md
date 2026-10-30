@@ -4,7 +4,7 @@ title: "Muhammad Asif Jamal"
 subtitle: "Medical Image Analysis and Computer Vision Researcher"
 ---
 ## About Me
-I am a PhD researcher in Information and Communication Engineering at **Chosun University, South Korea**, with expected graduation in **February 2027**. I conduct research under the supervision of **Prof. Bumshik Lee**, working with the [ENVI Lab at KENTECH](https://sites.google.com/view/envilab-kentech).
+I am a PhD researcher in Information and Communication Engineering at **Chosun University, South Korea**, with expected graduation in **February 2027**. I conduct research under the supervision of [Prof. Bumshik Lee](https://scholar.google.com/citations?user=maY0q9IAAAAJ&hl=en) and [Prof. Geon Woo Lee](https://scholar.google.com/citations?user=2a4vcrMAAAAJ&hl=en), working with the [ENVI Lab at KENTECH](https://sites.google.com/view/envilab-kentech).
 My research focuses on deep learning for medical image analysis, particularly **3D tooth instance segmentation in cone-beam CT**, anatomical representation learning, attention mechanisms, and state space models. I also collaborate on research into **3D CT synthesis from sparse views using latent diffusion models**.
 I developed **DentSeg-EDA**, published in *Neurocomputing*, and am developing **DentSegPlus**, a framework combining centroid and skeleton guidance with cross-axis context modeling for tooth segmentation.
 Previously, I served as a Lecturer at **Air University, Islamabad**, teaching undergraduate and graduate courses and supervising student research.
