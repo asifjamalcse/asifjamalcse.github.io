@@ -17,7 +17,7 @@ permalink: /publications/
 
 - **Accurate 3D Tooth Segmentation via Skeleton and Centroid Guidance in CBCT Imaging.** *ICAIIC 2025*, pp. 567–571. [Paper](https://doi.org/10.1109/ICAIIC64266.2025.10920685)
 - **MambaTeeth: 3D Dental Segmentation using State Space Models with SE Attention.** *Korean Institute of Next Generation Computing, Spring Conference*, 2025, pp. 51–52. [Paper](https://www.earticle.net/Article/A468903)
-- **Software Estimation Process Improvement using Data Segmentation.** *2023 20th International Bh urban Conference on Applied Sciences and Technology (IBCAST)*, pp. 279–284. [Paper](https://doi.org/10.1109/IBCAST59916.2023.10712851)
+- **Software Estimation Process Improvement using Data Segmentation.** *2023 20th International Bhurban Conference on Applied Sciences and Technology (IBCAST)*, pp. 279–284. [Paper](https://doi.org/10.1109/IBCAST59916.2023.10712851)
 - **Tooth Region Extraction from CBCT Images Using 3D Binary Segmentation.** *KICS Summer Conference*, 2024, pp. 986–987. [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11906281)
 
 [View my complete publication list on Google Scholar](https://scholar.google.com/citations?user=9oWSoJcAAAAJ&hl=en)
