@@ -29,9 +29,9 @@ Previously, I served as a Lecturer at **Air University, Islamabad**, teaching un
 ### 2022
 - Received the **Best Teacher Award** from Air University’s Department of Computer Science.
 ## Research Interests
-* Medical image segmentation and anatomical representation learning
-* 3D dental CBCT analysis
-* State space models and attention mechanisms
-* Generative models for medical image reconstruction
+
+Medical Artificial Intelligence, Machine Learning, and Deep Learning.
+
+**Sub-areas and applications:** Healthcare AI, medical image segmentation, medical image synthesis, and 3D reconstruction.
 ## Contact
 [Email](mailto:asifjamalcse@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=9oWSoJcAAAAJ&hl=en) / [GitHub](https://github.com/asifjamalcse) / [LinkedIn](https://www.linkedin.com/in/engrasifjamal/)
