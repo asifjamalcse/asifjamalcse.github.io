@@ -7,4 +7,4 @@ permalink: /cv/
 
 You can download my full CV below:
 
-[Download CV](CV.pdf)
+[Download my CV (PDF)](/Muhammad_Asif_Jamal_CV.pdf.pdf)
