@@ -20,7 +20,6 @@ permalink: /activities/
 
 - Attended the **AAAI 2026 main conference** in Jeju, South Korea.
 - Attended the **MICCAI 2025 main conference** in Daejeon, South Korea.
-- Attended a one-day Google Startup boot camp for web developers in Beijing, China.
 - Attended a workshop on FPGA-Based System Design offered by the Military College of Signals, NUST, Islamabad.
 
 ## Research Visits and Networking
