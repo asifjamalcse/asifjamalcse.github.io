@@ -11,7 +11,7 @@ permalink: /education/
 **Chosun University | March 2023 to February 2027, expected | Gwangju, South Korea**
 
 Full doctoral scholarship covering tuition, stipend, and health insurance.  
-Supervisor: Prof. Bumshik Lee & Prof. Geon Woo Lee 
+Supervisor: [Prof. Bumshik Lee](https://scholar.google.com/citations?user=maY0q9IAAAAJ&hl=en) and [Prof. Geon Woo Lee](https://scholar.google.com/citations?user=2a4vcrMAAAAJ&hl=en) 
 
 **Research:** Anatomy-Guided and Context-Adaptive Representation Learning for Robust 3D Tooth Instance Analysis in Cone-Beam CT.
 
