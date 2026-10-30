@@ -28,7 +28,7 @@ permalink: /experience/
 
 ### Lecturer | Air University
 
-**September 2016 to February 2026 | Islamabad, Pakistan**
+**September 2016 to February 2023 | Islamabad, Pakistan**
 
 - Taught undergraduate and graduate courses, including C++, Java, assembly language, cloud computing, scientific writing, and digital logic design.
 - Supervised student theses and undergraduate projects.
@@ -45,8 +45,3 @@ permalink: /experience/
 
 <hr>
 
-### Part-Time Database Administrator | Tidningstjänst AB
-
-**February 2011 to May 2015 | Sundsvall, Sweden**
-
-- Managed worker records, duty schedules, and customer subscription data.
