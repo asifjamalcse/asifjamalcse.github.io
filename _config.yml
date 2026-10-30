@@ -6,7 +6,7 @@ description: Medical Image Analysis and Computer Vision Researcher
 
 # --- Navigation bar --- #
 navbar-links:
-  Home: ""
+  Home: "/"
   Research: "research"
   Experience: "experience"
   Education: "education"
