@@ -14,7 +14,7 @@ permalink: /experience/
 - Provide research guidance and contribute to collaborative research and publications.
 ## Professional Experience
 ### Lecturer | Air University
-**September 2016 to February 2026 | Islamabad, Pakistan**
+**September 2016 to February 2023 | Islamabad, Pakistan**
 - Taught undergraduate and graduate courses, including C++, Java, assembly language, cloud computing, scientific writing, and digital logic design.
 - Supervised student theses and undergraduate projects.
 ### Lecturer and Project Coordinator | Abasyn University
@@ -22,6 +22,3 @@ permalink: /experience/
 - Taught undergraduate courses and supervised student projects.
 - Coordinated the establishment of a High Performance Computing laboratory with six compute nodes, one head node, and one domain controller.
 - Led a five-person team in developing the computing cluster.
-### Part-Time Database Administrator | Tidningstjänst AB
-**February 2011 to May 2015 | Sundsvall, Sweden**
-- Managed worker records, duty schedules, and customer subscription data.
