@@ -3,14 +3,25 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
+## Research Experience
+### Graduate Research Associate | Chosun University, ENVI Lab
+**March 2023 to present | Gwangju, South Korea**
+- Conduct PhD research in medical image analysis under the supervision of Prof. Bumshik Lee.
+- Develop deep learning methods for tooth localization and instance segmentation in 3D dental CBCT.
+### Remote Research Collaborator | Intelligent Media Center, Air University
+**August 2024 to present | Remote**
+- Collaborate online with students on computer vision and machine learning research.
+- Provide research guidance and contribute to collaborative research and publications.
 ## Professional Experience
-
-### Postdoctoral Fellow – KENTECH (2025–Present)
-- AI-based digital twins for DC grid anomaly detection
-
-### Postdoctoral Fellow – GIST (2023–2025)
-- AI-optimized WPT systems
-- Electricity price forecasting
-
-### Postdoctoral Fellow – Chosun University (2022–2023)
-- AI-based medical imaging system
+### Lecturer | Air University
+**September 2016 to February 2026 | Islamabad, Pakistan**
+- Taught undergraduate and graduate courses, including C++, Java, assembly language, cloud computing, scientific writing, and digital logic design.
+- Supervised student theses and undergraduate projects.
+### Lecturer and Project Coordinator | Abasyn University
+**August 2015 to August 2016 | Peshawar, Pakistan**
+- Taught undergraduate courses and supervised student projects.
+- Coordinated the establishment of a High Performance Computing laboratory with six compute nodes, one head node, and one domain controller.
+- Led a five-person team in developing the computing cluster.
+### Part-Time Database Administrator | Tidningstjänst AB
+**February 2011 to May 2015 | Sundsvall, Sweden**
+- Managed worker records, duty schedules, and customer subscription data.
