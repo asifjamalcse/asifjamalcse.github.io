@@ -10,8 +10,8 @@ permalink: /education/
 
 **Chosun University | March 2023 to February 2027, expected | Gwangju, South Korea**
 
-GPA: 4.33/4.50. Full doctoral scholarship covering tuition, stipend, and insurance.  
-Supervisor: Prof. Bumshik Lee.
+Full doctoral scholarship covering tuition, stipend, and health insurance.  
+Supervisor: Prof. Bumshik Lee & Prof. Geon Woo Lee
 
 **Research:** Anatomy-Guided and Context-Adaptive Representation Learning for Robust 3D Tooth Instance Analysis in Cone-Beam CT.
 
