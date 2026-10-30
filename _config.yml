@@ -13,8 +13,9 @@ navbar-links:
   CV: "cv"
 
 # Profile image
-avatar: "assets/img/profile.jpg"
+avatar: "assets/img/profile.jpg.jpg"
 
+5.
 # --- Colors --- #
 navbar-col: "#0f172a"
 navbar-text-col: "#FFFFFF"
