@@ -43,6 +43,37 @@ Previously, I served as a Lecturer at **Air University, Islamabad**, teaching un
 .timeline-stage{grid-template-rows:18rem 1.5rem 3.2rem 1.5rem 18rem}
 @media(max-width:950px){.timeline-stage{grid-template-rows:20rem 1.5rem 3.2rem 1.5rem 20rem}}
 @media(max-width:600px){.timeline-stage{grid-template-rows:20rem 1.5rem 2.8rem 1.5rem 20rem}}
+
+  .timeline-stage {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+.timeline-details {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 0 8px;
+  text-align: left;
+}
+.timeline-details h3 {
+  margin: 0 0 6px;
+  text-align: left;
+}
+.timeline-details .timeline-bullets {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.timeline-details .timeline-bullets li {
+  position: relative;
+  margin: 0 0 5px;
+  padding-left: 14px;
+  text-align: left;
+}
+.timeline-details .timeline-bullets li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+}
 </style>
 
 <ol class="arrow-timeline">
