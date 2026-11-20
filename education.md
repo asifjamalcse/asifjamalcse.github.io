@@ -12,7 +12,7 @@ March 2023 to February 2027 (expected)</p>
 <p><strong>Mid Sweden University</strong> · Sundsvall, Sweden<br>
 September 2010 to February 2014</p>
 <p><strong>Supervisor:</strong> <a href="https://scholar.google.com/citations?user=KZLP6wsAAAAJ&hl=en">Prof. Filip Barac</a<br>
-<p><strong>Thesis:</strong> A TinyOS Testbed for CC2420 Transceiver Chip Using NesC Programming.<br>
+<strong>Thesis:</strong> A TinyOS Testbed for CC2420 Transceiver Chip Using NesC Programming.<br>
 <a href="https://www.diva-portal.org/smash/get/diva2:666314/FULLTEXT01.pdf">Read the thesis</a></p>
 <p>Member of the Mid Sweden University Student Union.</p>
 ### Bachelor of Science in Computer Systems Engineering
