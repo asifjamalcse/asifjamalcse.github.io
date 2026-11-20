@@ -3,40 +3,23 @@ layout: page
 title: Awards and Grants
 permalink: /awards/
 ---
-
-## Awards and Grants
-
-### ROOKIE Research Support Grant
-
-**Chosun University | 2026 | KRW 6 million**
-
-Awarded through the 2026 ROOKIE Research Support Program to support my doctoral research and international journal publication expenses.
-
-### K-Health Medical AI Hackathon
-
-**Winner | 2024 | KRW 3 million**
-
-Led Team SegMed in developing a breast cancer segmentation approach for the K-Health Medical AI Hackathon.
-
+## Research Grants
+### ROOKIE Research Support Program Grant
+<p><strong>Chosun University · 2026 · KRW 6 million</strong></p>
+<p>Awarded to support doctoral research on state space models for tooth centroid and skeleton detection and segmentation in dental CBCT.</p>
+## Awards
 ### Excellent Paper Award
-
-**ICAIIC | 2025**
-
-Received the Excellent Paper Award for our conference paper on skeleton and centroid guidance for 3D tooth segmentation in CBCT.
-
+<p><strong>ICAIIC · 2025</strong></p>
+<p>Received for “Accurate 3D Tooth Segmentation via Skeleton and Centroid Guidance in CBCT Imaging.”</p>
+### Grand Prize, K-Health Medical AI Hackathon
+<p><strong>2024 · KRW 3 million</strong></p>
+<p>Led Team SegMed in developing a breast cancer segmentation approach that won the Grand Prize.</p>
 ### Best Teacher Award
-
-**Air University, Department of Computer Science | 2022**
-
-Recognized for teaching excellence.
-
-### Faculty Development Program Scholarship
-
-**Air University**
-
-Received a scholarship for PhD study through the Faculty Development Program.
-
-## Conference Participation
-
-- **AAAI 2026**, Jeju, South Korea
-- **MICCAI 2025**, Daejeon, South Korea
+<p><strong>Department of Computer Science, Faculty of Computing and AI, Air University · 2022</strong></p>
+<p>Recognized for excellence in teaching.</p>
+## Doctoral Scholarships and Fellowships
+<ul>
+<li><strong>National Research Foundation (NRF) Scholarship</strong> · Fully funded doctoral support.</li>
+<li><strong>Brain Korea 21 (BK21) Fellowship</strong> · Graduate research funding.</li>
+<li><strong>Professor’s Research Scholarship</strong> · Additional academic funding awarded by my supervisor.</li>
+</ul>
