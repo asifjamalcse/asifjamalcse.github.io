@@ -7,4 +7,4 @@ permalink: /cv/
 
 You can download my full CV below:
 
-[Download my updated CV (PDF)](/Muhammad_Asif_Jamal_CV.pdf)
+[Download my updated CV (PDF)]({{ '/Muhammad_Asif_Jamal_CV.pdf' | relative_url }})
