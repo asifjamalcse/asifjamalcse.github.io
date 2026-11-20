@@ -22,7 +22,9 @@ Previously, I served as a Lecturer at **Air University, Islamabad**, teaching un
 .timeline-connector{position:relative}
 .connector-top{grid-row:2}
 .connector-bottom{grid-row:4}
-.timeline-connector:before{content:"";position:absolute;left:50%;top:0;bottom:0;width:2px;background:#aeb7c2;transform:translateX(-50%)}
+.timeline-
+.timeline-callout ul{margin:.2rem 0 0;padding-left:1rem}
+.timeline-callout li{margin:.2rem 0} connector:before{content:"";position:absolute;left:50%;top:0;bottom:0;width:2px;background:#aeb7c2;transform:translateX(-50%)}
 .timeline-connector:after{content:"";position:absolute;left:calc(50% - 4px);width:8px;height:8px;border-radius:50%;background:#aeb7c2}
 .connector-top:after{bottom:-4px}
 .connector-bottom:after{top:-4px}
