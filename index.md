@@ -45,6 +45,30 @@ Previously, I served as a Lecturer at **Air University, Islamabad**, teaching un
 </article>
 </div>
 
+## PhD and Research Timeline
+<style>
+.research-timeline{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:0;list-style:none;padding:0;margin:1.5rem 0 2rem;position:relative}
+.research-timeline:before{content:"";position:absolute;left:7%;right:7%;top:2.55rem;height:4px;background:linear-gradient(90deg,#2563eb,#0f766e);border-radius:4px}
+.timeline-item{display:grid;grid-template-rows:1.5rem 2rem 1fr;padding:0 .45rem;min-width:0}
+.timeline-year{text-align:center;font-weight:700;font-size:1.05rem;color:#1d4ed8}
+.timeline-marker{width:16px;height:16px;margin:auto;background:#fff;border:4px solid #2563eb;border-radius:50%;z-index:1;box-sizing:content-box}
+.timeline-card{height:100%;box-sizing:border-box;margin-top:.5rem;padding:.9rem;background:#f8fafc;border:1px solid #dbeafe;border-top:3px solid #2563eb;border-radius:.5rem}
+.timeline-card h3{margin:.1rem 0 .55rem;color:#1e3a8a;font-size:1rem}
+.timeline-card ul{margin:0;padding-left:1.1rem}
+.timeline-card li{margin:.35rem 0}
+@media(max-width:950px){.research-timeline{grid-template-columns:repeat(6,minmax(185px,1fr));overflow-x:auto;padding-bottom:.5rem}}
+@media(max-width:700px){.research-timeline{display:block;overflow:visible;padding-left:1.5rem}.research-timeline:before{top:.4rem;bottom:.5rem;left:.5rem;right:auto;width:3px;height:auto}.timeline-item{display:grid;grid-template-columns:1.5rem 1fr;grid-template-rows:auto;gap:.35rem .8rem;padding:0 0 1rem}.timeline-year{grid-column:2;grid-row:1;text-align:left}.timeline-marker{grid-column:1;grid-row:1/3;margin:.25rem auto 0}.timeline-card{grid-column:2;grid-row:2;margin:0}}
+</style>
+<ol class="research-timeline">
+<li class="timeline-item"><div class="timeline-year">2022</div><div class="timeline-marker"></div><article class="timeline-card"><h3>Teaching recognition</h3><ul><li>Received the Best Teacher Award from Air University's Department of Computer Science.</li></ul></article></li>
+<li class="timeline-item"><div class="timeline-year">2023</div><div class="timeline-marker"></div><article class="timeline-card"><h3>PhD begins</h3><ul><li>Began the PhD in Information and Communication Engineering at Chosun University.</li><li>Started research on anatomy-guided tooth localization and instance segmentation in dental CBCT.</li></ul></article></li>
+<li class="timeline-item"><div class="timeline-year">2024</div><div class="timeline-marker"></div><article class="timeline-card"><h3>Research and collaboration</h3><ul><li>Published a CBCT tooth-region extraction paper at the KICS Summer Conference.</li><li>Began remote research collaboration with the Intelligent Media Center at Air University.</li><li>Led Team SegMed to the Grand Prize at the K-Health Medical AI Hackathon for breast cancer segmentation.</li></ul></article></li>
+<li class="timeline-item"><div class="timeline-year">2025</div><div class="timeline-marker"></div><article class="timeline-card"><h3>Publications and award</h3><ul><li>Published <em>DentSeg-EDA</em> in <em>Neurocomputing</em> and the <em>MambaTeeth</em> conference paper.</li><li>Received the ICAIIC Excellent Paper Award for tooth segmentation using skeleton and centroid guidance.</li><li>Attended MICCAI 2025 in Daejeon.</li></ul></article></li>
+<li class="timeline-item"><div class="timeline-year">2026</div><div class="timeline-marker"></div><article class="timeline-card"><h3>Research expansion</h3><ul><li>Received the KRW 6 million ROOKIE Research Support Grant.</li><li>Attended AAAI 2026 and KDD 2026 in Jeju.</li><li>Submitted manuscripts on DentSegPlus and latent-diffusion-based sparse-view 3D CT synthesis.</li><li>Developing graph-based unsupervised anomaly detection for dental imaging.</li></ul></article></li>
+<li class="timeline-item"><div class="timeline-year">2027</div><div class="timeline-marker"></div><article class="timeline-card"><h3>Expected completion</h3><ul><li>Expected to complete the PhD at Chosun University in February 2027.</li></ul></article></li>
+</ol>
+
+
 ## Research Interests
 Medical Artificial Intelligence, Machine Learning, and Deep Learning.
 
