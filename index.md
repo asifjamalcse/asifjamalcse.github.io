@@ -17,7 +17,7 @@ I previously served as a Lecturer at **Air University, Islamabad**, where I taug
 .timeline-callout ul{list-style:none;margin:.15rem 0 0;padding:0}
 .timeline-callout li{position:relative;margin:0 0 .3rem;padding:0;text-align:left}
 .timeline-callout li::before{content:"•";position:absolute;left:-.8rem;top:0}
-.callout-top{grid-row:1;justify-content:flex-end}
+.callout-top{grid-row:1;justify-content:flex-start}
 .callout-bottom{grid-row:5;justify-content:flex-start}
 .timeline-connector{grid-row:2;position:relative}
 .connector-bottom{grid-row:4}
