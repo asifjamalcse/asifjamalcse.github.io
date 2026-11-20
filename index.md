@@ -40,7 +40,11 @@ Previously, I served as a Lecturer at **Air University, Islamabad**, teaching un
 .timeline-next{margin:.5rem 0 2rem;padding:.75rem 1rem;background:#f1f5f9;border-left:4px solid #0f766e;border-radius:.25rem}
 @media(max-width:950px){.arrow-timeline{grid-template-columns:repeat(6,minmax(170px,1fr));overflow-x:auto;padding-bottom:.5rem}}
 @media(max-width:600px){.timeline-stage{grid-template-rows:7rem 1.5rem 2.8rem 1.5rem 7rem}.timeline-callout{font-size:.74rem}.timeline-callout strong{font-size:.82rem}}
+.timeline-stage{grid-template-rows:18rem 1.5rem 3.2rem 1.5rem 18rem}
+@media(max-width:950px){.timeline-stage{grid-template-rows:20rem 1.5rem 3.2rem 1.5rem 20rem}}
+@media(max-width:600px){.timeline-stage{grid-template-rows:20rem 1.5rem 2.8rem 1.5rem 20rem}}
 </style>
+
 <ol class="arrow-timeline">
 <li class="timeline-stage top"><div class="timeline-callout callout-top"><strong>Teaching recognition</strong><ul><li>Received the Best Teacher Award from Air University's Department of Computer Science.</li></ul></div><div class="timeline-connector connector-top"></div><div class="timeline-arrow">2022</div><div class="timeline-connector connector-bottom"></div><div class="timeline-callout callout-bottom"></div></li>
 <li class="timeline-stage bottom"><div class="timeline-callout callout-top"></div><div class="timeline-connector connector-top"></div><div class="timeline-arrow">2023</div><div class="timeline-connector connector-bottom"></div><div class="timeline-callout callout-bottom"><strong>PhD begins</strong><ul><li>Began research on tooth segmentation in dental CBCT.</li><li>Started the PhD in Information and Communication Engineering at Chosun University.</li></ul></div></li>
