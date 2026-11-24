@@ -7,10 +7,10 @@ description: Medical Image Analysis and Computer Vision Researcher
 # --- Navigation bar --- #
 navbar-links:
   Home: "/"
+  Activities: "activities"
   Research: "research"
   Experience: "experience"
   Education: "education"
-  Activities: "activities"
   Awards and Grants: "awards"
   Publications: "publications"
   CV: "cv"
