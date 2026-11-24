@@ -2,6 +2,8 @@
 layout: home
 title: "Muhammad Asif Jamal"
 subtitle: "AI and Computer Vision Researcher | Medical Image Analysis"
+footer-extra: visitor-counter.html
+
 ---
 ## About Me
 I am a PhD researcher in Information and Communication Engineering at **Chosun University, South Korea**, and expect to graduate in **February 2027**. My doctoral research is supervised by [Prof. Bumshik Lee](https://scholar.google.com/citations?user=maY0q9IAAAAJ&hl=en) and conducted with the [ENVI Lab](https://sites.google.com/view/envilab-kentech).
@@ -71,6 +73,4 @@ I developed **DentSeg-EDA**, published in *Neurocomputing*, and am developing **
 </li>
 </ol>
 <p class="timeline-next"><strong>Next research direction:</strong> Graph-based unsupervised anomaly detection in dental imaging.</p>
-
-footer-extra: visitor-counter.html
 
