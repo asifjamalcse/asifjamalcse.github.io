@@ -72,4 +72,5 @@ I developed **DentSeg-EDA**, published in *Neurocomputing*, and am developing **
 </ol>
 <p class="timeline-next"><strong>Next research direction:</strong> Graph-based unsupervised anomaly detection in dental imaging.</p>
 
-<a href="https://info.flagcounter.com/7dLY"><img src="https://s05.flagcounter.com/count2/7dLY/bg_0B1833/txt_DCE8FA/border_233B63/columns_7/maxflags_28/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+footer-extra: visitor-counter.html
+
